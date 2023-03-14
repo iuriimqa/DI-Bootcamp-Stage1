@@ -1,0 +1,11 @@
+*{
+    color:bisque;
+}
+header {background-color: blue;}
+button {
+    background-color: red;
+}
+
+button:hover {
+  background-color: blue;
+}
